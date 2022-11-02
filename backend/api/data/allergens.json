@@ -1,0 +1,8 @@
+{
+    "allergens": [
+        { "id": 1, "name": "Gluten" },
+        { "id": 2, "name": "Eggs" },
+        { "id": 3, "name": "Soy" },
+        { "id": 4, "name": "Dairy" }
+    ]
+}

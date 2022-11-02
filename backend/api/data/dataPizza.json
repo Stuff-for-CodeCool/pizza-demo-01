@@ -1,0 +1,136 @@
+{
+    "pizzas": [
+        {
+            "id": 1,
+            "image": "https://www.pizzahutdelivery.ro/egendaOnline/image/MTAwMDA0NV80OTBfMzM1XzJfMl84MF9f/1000045_1.jpg",
+            "name": "California",
+            "ingredients": [
+                "Tomato Sauce",
+                "Mozzarella",
+                "Chicken",
+                "Corn",
+                "Pepper"
+            ],
+            "price": 25,
+            "allergens": [1, 3, 4]
+        },
+        {
+            "id": 2,
+            "image": "https://www.pizzahutdelivery.ro/egendaOnline/image/MTAwMDIxNl80OTBfMzM1XzJfMl84MF9f/1000216_1.jpg",
+            "name": "Veggie & Mozzarella",
+            "ingredients": [
+                "Tomato Sauce",
+                "Mozzarella",
+                "Mushrooms",
+                "Olives",
+                "Pepper",
+                "Corn",
+                "Tomatoes"
+            ],
+            "price": 25,
+            "allergens": [1, 4]
+        },
+        {
+            "id": 3,
+            "image": "https://www.pizzahutdelivery.ro/egendaOnline/image/MTAwMDA1MV80OTBfMzM1XzJfMl84MF9f/1000051_1.jpg",
+            "name": "Suprema",
+            "ingredients": [
+                "Tomato Sauce",
+                "Mozzarella",
+                "Pepperoni",
+                "Beef",
+                "Onion",
+                "Mushrooms",
+                "Pepper"
+            ],
+            "price": 30,
+            "allergens": [1, 3, 4]
+        },
+        {
+            "id": 4,
+            "image": "https://www.pizzahutdelivery.ro/egendaOnline/image/MTAwMDA0M180OTBfMzM1XzJfMl84MF9f/1000043_1.jpg",
+            "name": "Pepperoni",
+            "ingredients": ["Tomato Sauce", "Mozzarella", "Pepperoni"],
+            "price": "30",
+            "allergens": [1, 3, 4]
+        },
+        {
+            "id": 5,
+            "image": "https://www.pizzahutdelivery.ro/egendaOnline/image/MTAwMDA0OF80OTBfMzM1XzJfMl84MF9f/1000048_1.jpg",
+            "name": "American Spicy",
+            "ingredients": [
+                "Tomato Sauce",
+                "Mozzarella",
+                "Pepperoni",
+                "Tomatoes",
+                "Pepper",
+                "Onion",
+                "Jalapeños",
+                "Samurai Sauce"
+            ],
+            "price": 40,
+            "allergens": [1, 2, 3, 4]
+        },
+        {
+            "id": 6,
+            "image": "https://www.pizzahutdelivery.ro/egendaOnline/image/MTAwMDA1N180OTBfMzM1XzJfMl84MF9f/1000057_1.jpg",
+            "name": "Chicken & Corn",
+            "ingredients": [
+                "Tomato Sauce",
+                "Mozzarella",
+                "Chicken",
+                "Mushrooms",
+                "Olives",
+                "Pepper",
+                "Corn",
+                "Tomatoes"
+            ],
+            "price": 40,
+            "allergens": [1, 3, 4]
+        },
+        {
+            "id": 7,
+            "image": "https://www.pizzahutdelivery.ro/egendaOnline/image/MTAwMDA1Nl80OTBfMzM1XzJfMl84MF9f/1000056_1.jpg",
+            "name": "Pepperoni & Feta",
+            "ingredients": [
+                "Tomato Sauce",
+                "Mozzarella",
+                "Feta Cheese",
+                "Pepperoni",
+                "Pepper",
+                "Onion"
+            ],
+            "price": 40,
+            "allergens": [1, 3, 4]
+        },
+        {
+            "id": 9,
+            "image": "https://www.pizzahutdelivery.ro/egendaOnline/image/MTAwMDA0Ml80OTBfMzM1XzJfMl84MF9f/1000042_1.jpg",
+            "name": "Quattro Formaggi",
+            "ingredients": [
+                "Mozzarella",
+                "Cheddar",
+                "Emmentaler",
+                "Gorgonzola",
+                "Oregano"
+            ],
+            "price": 35,
+            "allergens": [1, 4]
+        },
+        {
+            "id": 10,
+            "image": "https://www.pizzahutdelivery.ro/egendaOnline/image/MTAwMDA1Ml80OTBfMzM1XzJfMl84MF9f/1000052_1.jpg",
+            "name": "Meat Lovers",
+            "ingredients": [
+                "Tomato Sauce",
+                "Mozzarella",
+                "Chicken",
+                "Beef",
+                "Pepperoni",
+                "Bacon"
+            ],
+            "price": 30,
+            "allergens": [1, 3, 4]
+        }
+    ]
+}
